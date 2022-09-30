@@ -1,0 +1,16 @@
+.gradiant{
+  background: -webkit-linear-gradient(#8456EC, #E87BF8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btnColour{
+    background-image: linear-gradient(#8456EC, #E87BF8);
+    text-transform:none;
+}
+
+.fontAwesome{
+    width: 26px;
+    height: 26px;
+    border: 1px solid #fff;
+}
